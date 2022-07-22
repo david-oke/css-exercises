@@ -2,3 +2,18 @@
     background-color: rgb(246, 99, 163);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24x;
+}
+
+.four {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
